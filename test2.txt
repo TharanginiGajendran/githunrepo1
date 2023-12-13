@@ -1,0 +1,1 @@
+Created new file in local pc github clone folder and adding to a staging area and commiting it an dpushing it to github repo
