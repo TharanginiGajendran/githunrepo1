@@ -1,2 +1,1 @@
-Now i created test3.txt to see and understand how it works
-
+This is test3.txt file
